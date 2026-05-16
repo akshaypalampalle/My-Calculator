@@ -54,3 +54,17 @@ This project is free to use for learning purposes.
 ---
 
 ## 📁 Project Structure
+
+MyCalculator/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/akshaypalampalle/mycalculator/
+│   │   │   │   └── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   └── values/
+│   │   │   │       ├── colors.xml
+│   │   │   │       └── themes.xml
+│   │   │   └── AndroidManifest.xml
